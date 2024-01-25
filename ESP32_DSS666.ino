@@ -36,12 +36,12 @@ void postTransmission()
   digitalWrite(MAX485_DE, 0);
 }
 //                      definiendo las credenciales de usuario de la base de datos de FIREBASE
-#define USER_EMAIL "mpbtesis@gmail.com"
-#define USER_PASSWORD "mpbtesis123"
+#define USER_EMAIL "correo_registrado_en_rpoyecto"
+#define USER_PASSWORD "contraseña_de_correo_registrado_en_firebase"
 
                     // definiendo las credenciales de la conexion WIFI
-#define WIFI_SSID "FAMILIA_VASQUEZ"
-#define WIFI_PASSWORD "Susga2007"
+#define WIFI_SSID "ssid_wifi"
+#define WIFI_PASSWORD "contraseña_wifi"
 
 //                    definiendo las credenciales de la base de datos
 
