@@ -11,14 +11,17 @@ Este prototipo utiliza IoT (Internet de las Cosas) y  consta de los siguientes c
 
 
 ## Contenido del Repositorio
-
 ### Manual de Usuario
 
 El repositorio incluye un Manual de Usuario que proporciona instrucciones detalladas sobre la instalación y operación del prototipo. Este manual está compuesto por los siguientes documentos:
 
-- **Datasheet DSS666 TAXNELE:** Documentación técnica del dispositivo DSS666 TAXNELE utilizado en el proyecto.
+- **Datasheet DSS666 TAXNELE:** Documentación técnica del dispositivo DSS666 TAXNELE.
 - **Manual de Conexión ESP32 con DSS666:** Guía paso a paso para la conexión y configuración del módulo ESP32 con el dispositivo DSS666.
-- **Registros MODBUS-RTU de DSS666:** Información detallada sobre los registros MODBUS-RTU utilizados para la comunicación con el dispositivo DSS666.
+- **Registros MODBUS-RTU de DSS666:** Información de los registros MODBUS-RTU para la comunicación con el dispositivo DSS666.
+- **Edición Aplicación Móvil en App Inventor:** Instrucciones para editar la aplicación móvil en App Inventor y configurar las API KEY necesarias.
 
-Estos recursos son fundamentales para comprender y utilizar eficazmente el prototipo de monitoreo de ahorro de energía con paneles solares.
+Estos recursos son fundamentales para comprender y utilizar eficazmente este dispositivo de prototipo de monitoreo de ahorro de energía con paneles solares y adecuadarlo a cada necesidad.
+
+
+### Manual de Usuario
 
