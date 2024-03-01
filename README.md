@@ -20,8 +20,13 @@ El repositorio incluye un Manual de Usuario que proporciona instrucciones detall
 - **Registros MODBUS-RTU de DSS666:** Información de los registros MODBUS-RTU para la comunicación con el dispositivo DSS666.
 - **Edición Aplicación Móvil en App Inventor:** Instrucciones para editar la aplicación móvil en App Inventor y configurar las API KEY necesarias.
 
+### Códigos Fuente
+En este repositorio encontrarás los siguientes archivos de código fuente:
+
+- [ESP32_DSS666.ino](ESP32_DSS666.ino): Configuración para Arduino en el entorno IDE de Arduino.
+- [AppPython.py](AppPython.py): Aplicación en python para el PC.
+- [app.aia](app.aia): Archivo.aia para el celular desarrollada en App Inventor.
+
 Estos recursos son fundamentales para comprender y utilizar eficazmente este dispositivo de prototipo de monitoreo de ahorro de energía con paneles solares y adecuadarlo a cada necesidad.
 
-
-### Manual de Usuario
 
