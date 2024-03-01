@@ -1,10 +1,14 @@
 # Prototipo de Monitoreo de Ahorro de Energía con Paneles Solares
 
-Este repositorio contiene el primer prototipo del proyecto investigativo de Monitoreo de Ahorro de Energía con Paneles Solares, diseñado para residencias monofásicas de manera económica.
+Este repositorio contiene el primer prototipo del proyecto investigativo de Monitoreo de Ahorro de Energía con Paneles Solares, diseñado para residencias monofásicas de manera económica. 
+Este prototipo consta de los siguientes componentes principales:
 
-## Descripción del Proyecto
+- **Sensor de Potencia Bidireccional DS666:** Utilizado para medir todos los datos necesarios para el monitoreo de energía.
+- **Módulo Serial RS-485:** Establece comunicación MODBUS-RTU con el microcontrolador ESP32.
+- **Microcontrolador ESP32:** Recopila los datos del sensor y se conecta a Firebase para el almacenamiento en la nube a través de Realtime Database.
+- **Aplicación de Escritorio en Python:** Desarrollada para visualizar y almacenar los datos recopilados en Firebase.
+- **Aplicación Móvil en App Inventor:** Diseñada para ofrecer una interfaz amigable para el usuario final, permitiendo acceso y visualización de los datos desde dispositivos móviles.
 
-El objetivo principal de este proyecto es desarrollar un sistema de monitoreo de ahorro de energía que utilice paneles solares, dirigido a hogares monofásicos. El prototipo incorpora componentes electrónicos específicos y software de control diseñado para recopilar y analizar datos sobre el consumo y la generación de energía solar.
 
 ## Contenido del Repositorio
 
@@ -18,10 +22,3 @@ El repositorio incluye un Manual de Usuario que proporciona instrucciones detall
 
 Estos recursos son fundamentales para comprender y utilizar eficazmente el prototipo de monitoreo de ahorro de energía con paneles solares.
 
-## Contribuciones
-
-¡Si estás interesado en contribuir a este proyecto, tus sugerencias, correcciones o mejoras son siempre bienvenidas a través de solicitudes de extracción!
-
-## Licencia
-
-Este proyecto se distribuye bajo la licencia [Nombre de la Licencia]. Consulta el archivo LICENSE.md para obtener más detalles sobre los términos de uso.
