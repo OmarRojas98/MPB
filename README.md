@@ -1,7 +1,7 @@
 # Prototipo de Monitoreo de Ahorro de Energía con Paneles Solares
 
 Este repositorio contiene el primer prototipo del proyecto investigativo de Monitoreo de Ahorro de Energía con Paneles Solares, diseñado para residencias monofásicas de manera económica. 
-Este prototipo consta de los siguientes componentes principales:
+Este prototipo utiliza IoT (Internet de las Cosas) y  consta de los siguientes componentes principales:
 
 - **Sensor de Potencia Bidireccional DS666:** Utilizado para medir todos los datos necesarios para el monitoreo de energía.
 - **Módulo Serial RS-485:** Establece comunicación MODBUS-RTU con el microcontrolador ESP32.
